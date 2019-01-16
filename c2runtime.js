@@ -18593,6 +18593,8 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.TiledBg,
 	cr.plugins_.Touch,
 	cr.system_object.prototype.cnds.IsGroupActive,
+	cr.system_object.prototype.cnds.OnLayoutStart,
+	cr.plugins_.Photon.prototype.acts.setAppId,
 	cr.plugins_.Button.prototype.cnds.OnClicked,
 	cr.system_object.prototype.acts.SetVar,
 	cr.plugins_.Button.prototype.acts.SetVisible,
