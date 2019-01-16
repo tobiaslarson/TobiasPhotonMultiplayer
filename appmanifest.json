@@ -1,9 +1,9 @@
 ﻿{
-	"name": "PhotonMultiplayer",
-	"short_name": "PhotonMultiplayer",
+	"name": "demo-pool",
+	"short_name": "demo-pool",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "any",
 	"icons": [{
 		"src": "icon-16.png",
 		"sizes": "16x16",
